@@ -60,7 +60,7 @@ USB flasher for **Linux, Windows and macOS**. Every write is read back and compa
 [![Release](https://img.shields.io/github/v/release/TryCoffee/kiln?style=flat-square&color=e2401f)](https://github.com/TryCoffee/kiln/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/TryCoffee/kiln/total?style=flat-square)](https://github.com/TryCoffee/kiln/releases)
 [![Website](https://img.shields.io/badge/kiln--usb.pages.dev-e2401f?style=flat-square)](https://kiln-usb.pages.dev)
-[![License](https://img.shields.io/github/license/TryCoffee/kiln?style=flat-square)](https://github.com/TryCoffee/kiln/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](https://github.com/TryCoffee/kiln/blob/main/LICENSE)
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ USB flasher for **Linux, Windows and macOS**. Every write is read back and compa
 - PyQt6, follows your system theme
 
 [![Repo](https://img.shields.io/badge/GitHub-DRAW-181717?style=flat-square&logo=github)](https://github.com/TryCoffee/DaVinci-Resolve-AAC-workaround)
-[![License](https://img.shields.io/github/license/TryCoffee/DaVinci-Resolve-AAC-workaround?style=flat-square)](https://github.com/TryCoffee/DaVinci-Resolve-AAC-workaround/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](https://github.com/TryCoffee/DaVinci-Resolve-AAC-workaround/blob/main/LICENSE)
 
 </td>
 <td width="50%" valign="top">
